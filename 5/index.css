@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-family: kablammo, cursive;
+    color: darkblue;
+    transition: 0.8s;
+}
+a:hover{
+    letter-spacing: 3px;
+    
+}
+h1{
+    font-family: kablammo;
+}
+.menu-item{
+    background-color: rgb(39, 180, 199);
+    text-align: center;
+    margin: 2px;
+    padding: 10px;
+}
+p{
+    font-family: 'Chakra Petch', sans-serif;
+    color: rgb(0, 69, 74);
+}
+img{
+    width: 80%;
+    margin: 20px;
+}
