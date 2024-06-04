@@ -16,7 +16,7 @@ button {
     border: none;
     transition: 1s;
     color: rgb(200, 200, 200);
-    padding: 100px;
+    padding: 70px;
     margin: 10px;
     
 
@@ -36,7 +36,7 @@ body {
 a {
     text-decoration: none;
     color: rgb(200, 200, 200);
-    font-size: 30px;
+    font-size: 50px;
 }
 
 p {
