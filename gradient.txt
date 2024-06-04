@@ -1,0 +1,7 @@
+background-image: linear-gradient(to top, #000000, #1c1c1c, #323232, #494949, #616161, #727272, #848484, #969696, #a5a5a5, #b4b4b4, #c3c3c3, #d3d3d3); - темний
+background-image: linear-gradient(to top, #1d0707, #302020, #463636, #5d4d4d, #756666, #877878, #998b8b, #ab9e9e, #bbaeae, #cbbebe, #dbcfcf, #ebe0e0); - посвітліше
+
+
+-webkit-box-shadow: 10px 0px 41px 19px rgba(74,72,72,1);
+-moz-box-shadow: 10px 0px 41px 19px rgba(74,72,72,1);            box-shadow
+box-shadow:(inset) 10px 0px 41px 19px rgba(74,72,72,1);
